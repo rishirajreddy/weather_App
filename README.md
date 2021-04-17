@@ -19,7 +19,5 @@ A few resources to get you started if this is your first Flutter project:
 
 <div align=center>
   <img src="https://user-images.githubusercontent.com/64702890/115122996-9797ea80-9fd8-11eb-8f57-8bb04cb6542e.png" height=500 width=300>
-</div>
-<div align=center>
   <img src="https://user-images.githubusercontent.com/64702890/115123004-a2527f80-9fd8-11eb-9902-651fece23de5.png" height=50 width=300>
-  </div>
+</div>
