@@ -13,4 +13,4 @@ A few resources to get you started if this is your first Flutter project:
 
 ## Screenshots
 <div>
-  <img src="https://user-images.githubusercontent.com/64702890/115122831-b2b62a80-9fd7-11eb-8aac-770417a4f681.png" height=100 width=100>
+  <img src="https://user-images.githubusercontent.com/64702890/115122831-b2b62a80-9fd7-11eb-8aac-770417a4f681.png" height=700 width=300>
